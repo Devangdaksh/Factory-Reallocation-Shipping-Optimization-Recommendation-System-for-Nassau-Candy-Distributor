@@ -1,6 +1,9 @@
+streamlit
 pandas
+numpy
 matplotlib
 plotly
-streamlit
-jupyter
+seaborn
+openpyxl
+xlsxwriter
 python-pptx

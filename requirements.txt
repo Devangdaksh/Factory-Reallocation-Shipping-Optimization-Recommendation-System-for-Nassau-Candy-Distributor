@@ -7,3 +7,5 @@ seaborn
 openpyxl
 xlsxwriter
 python-pptx
+scikit-learn
+joblib
